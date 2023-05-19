@@ -51,16 +51,13 @@ simulate the model for inverse kinematics.
 STEP 5:
 update the DH parameters of the link configuration and end effector configuration.
 
-
-
-
-
-
-
 ### SIMULATION 
+
 ### 3R PLANAR
-![output](k4.png)
-### 3R ARTICULATED
-![output](k5.png)
+![k4](https://github.com/hemadec/EXP-3-Inverse-kinematic-modeling-using-robo-analyzer-/assets/124191397/9072b41c-4860-4ee6-b84a-91eb6b0d86e3)
+
+### 3R ARTICULATED!
+[k5](https://github.com/hemadec/EXP-3-Inverse-kinematic-modeling-using-robo-analyzer-/assets/124191397/4e9e9821-f67f-4c17-a18e-3145535a9268)
+
 ### RESULTS :  
 The inverse kinematics using DH parameters for a 3 dof planer and 3 dof articulated robot using roboanalyzer has been analyzed.
